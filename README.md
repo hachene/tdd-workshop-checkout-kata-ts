@@ -1,1 +1,1 @@
-# tdd-workshop-checkout-kata-ts
+# typescript-backend-template
